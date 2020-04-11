@@ -1,0 +1,1 @@
+{"version":3,"sources":["Home.css"],"names":[],"mappings":"AAAA,SACE,cAAe,CACf,WACF,CAEA,YACE,aAAc,CACd,WACF","file":"main.eebd6e03.chunk.css","sourcesContent":[".row img {\r\n  max-width: 100%;\r\n  height: auto;\r\n}\r\n\r\n.column img {\r\n  max-width: 50%;\r\n  height: auto;\r\n}"]}
