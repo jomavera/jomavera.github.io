@@ -6,14 +6,14 @@
     "runtime-main.js": "/static/js/runtime-main.99a7a007.js",
     "runtime-main.js.map": "/static/js/runtime-main.99a7a007.js.map",
     "static/css/2.711045af.chunk.css": "/static/css/2.711045af.chunk.css",
-    "static/js/2.b6c26ff6.chunk.js": "/static/js/2.b6c26ff6.chunk.js",
-    "static/js/2.b6c26ff6.chunk.js.map": "/static/js/2.b6c26ff6.chunk.js.map",
+    "static/js/2.eaafad5a.chunk.js": "/static/js/2.eaafad5a.chunk.js",
+    "static/js/2.eaafad5a.chunk.js.map": "/static/js/2.eaafad5a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a81e77092892eeaea95fe5d5c8680dfe.js": "/precache-manifest.a81e77092892eeaea95fe5d5c8680dfe.js",
+    "precache-manifest.c3709c4841cb35329efa25e9e3b913e4.js": "/precache-manifest.c3709c4841cb35329efa25e9e3b913e4.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.711045af.chunk.css.map": "/static/css/2.711045af.chunk.css.map",
     "static/css/main.be3d2cf6.chunk.css.map": "/static/css/main.be3d2cf6.chunk.css.map",
-    "static/js/2.b6c26ff6.chunk.js.LICENSE.txt": "/static/js/2.b6c26ff6.chunk.js.LICENSE.txt",
+    "static/js/2.eaafad5a.chunk.js.LICENSE.txt": "/static/js/2.eaafad5a.chunk.js.LICENSE.txt",
     "static/media/bg_img_3.jpg": "/static/media/bg_img_3.10213859.jpg",
     "static/media/ecuacovid.PNG": "/static/media/ecuacovid.7d06d4c6.PNG",
     "static/media/interior_point.md": "/static/media/interior_point.fcb47d64.md",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.99a7a007.js",
     "static/css/2.711045af.chunk.css",
-    "static/js/2.b6c26ff6.chunk.js",
+    "static/js/2.eaafad5a.chunk.js",
     "static/css/main.be3d2cf6.chunk.css",
     "static/js/main.73b14ac8.chunk.js"
   ]
